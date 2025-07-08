@@ -1,0 +1,6 @@
+git clone https://github.com/khem75/daily-practice-log.git
+cd daily-practice-log
+# Add the structure and script
+git add .
+git commit -m "Initial commit"
+git push
