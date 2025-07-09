@@ -10,7 +10,6 @@ To keep track of:
 
 ## 📅 Started on: July 2, 2025
 
----
 
 ## 🔥 Current Streak: [Manually track or use GitHub insights]
 
